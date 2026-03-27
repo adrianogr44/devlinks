@@ -1,5 +1,5 @@
 const audio = new Audio("./assets/flashbang-cs_qoRhxLn.mp3");
-audio.volume = 0.2;
+audio.volume = 0.02;
 
 function toggleMode() {
     const html = document.documentElement;
